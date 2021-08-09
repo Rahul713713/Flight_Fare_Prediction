@@ -39,6 +39,7 @@ After cleaning the data,I started with EDA. These are some of the outcomes of ED
 
 ![Flight_Fare_Prediction](https://github.com/Rahul713713/Flight_Fare_Prediction/blob/main/Most_Used_Airlines.png "Most_used_airlines")
 ![Flight_Fare_Prediction](https://github.com/Rahul713713/Flight_Fare_Prediction/blob/main/price_vs_airplanes.png "Price_vs_Airlines")
+### Feature Importance
 ![Flight_Fare_Prediction](https://github.com/Rahul713713/Flight_Fare_Prediction/blob/main/Feature_Importance.png "most_important_features")
 
 # Machine Learning Models
